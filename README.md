@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Terrence Ncube</h1>
-<h3 align="center">An aspiring Cloud DevOps Engineer in Poland</h3>
+<h2 align="center">Hi 👋, I'm Terrence Ncube</h2>
+<h3 align="center">An Aspiring Cloud & DevOps Engineer with hands-on experience in cloud infrastructure and automation</h3>
 
-- 🔭 I’m currently working on **AWS Cloud and DevOps projects to gain more experience in the field**
+- 🔭 Skilled in CI/CD pipelines, Bash scripting, and Infrastructure as Code (Terraform, GitHub Actions). Passionate about site reliability and cloud-native solutions, with a strong foundation in Linux, networking, and security best practices
 
-- 🌱 I’m currently learning **more AWS services and DevOps tools in order to build and configure safer deployments**
+- 🌱 I'm Committed to optimizing deployments, ensuring scalability, and driving operational efficiency.
 
 - 📫 How to reach me **terrencencube593@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/terrence ncube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terrence ncube" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/terrence-ncube/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terrence ncube" height="30" width="40" /></a>
 <a href="https://instagram.com/terrence.press" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="terrence.press" height="30" width="40" /></a>
 </p>
 
