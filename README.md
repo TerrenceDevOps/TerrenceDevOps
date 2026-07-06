@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Terrence Ncube</h2>
 <h3 align="center">A Cloud & Infra Engineer with hands-on experience in cloud infrastructure and automation</h3>
 
-- 🔭 Skilled in CI/CD pipelines, Bash scripting, and Infrastructure as Code (Terraform, Jenkins). Passionate about site reliability and cloud-native solutions, with a strong foundation in Linux, networking, and security best practices
+- 🔭 Skilled in CI/CD pipelines, Bash scripting, and Infrastructure as Code (Terraform) and Github Actions. Passionate about site reliability and cloud-native solutions, with a strong foundation in Linux, networking, and security best practices
 
 - 🌱 I'm Committed to optimizing deployments, ensuring scalability, and driving operational efficiency.
 
